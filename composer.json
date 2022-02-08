@@ -1,0 +1,12 @@
+{
+    "name": "sadi/testing-tagging",
+    "authors": [
+        {
+            "name": "sadi1991",
+            "email": "sadi@coderex.co"
+        }
+    ],
+    "require": {
+        "twilio/sdk": "^6.33"
+    }
+}
