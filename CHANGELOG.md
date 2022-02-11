@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](git@github.com:iamsadi22/testing-tagging.git/compare/v1.1.2...v1.2.0) (2022-02-11)
+
+
+### Features
+
+* **!:** add new feature ([e4cccad](git@github.com:iamsadi22/testing-tagging.git/commitse4cccadb612d2c6df519555260723125c0ae49f8))
+
 ### [1.1.2](git@github.com:iamsadi22/testing-tagging.git/compare/v1.1.1...v1.1.2) (2022-02-11)
 
 
