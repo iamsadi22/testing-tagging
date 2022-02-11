@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.2](git@github.com:iamsadi22/testing-tagging.git/compare/v1.1.1...v1.1.2) (2022-02-11)
+
+
+### Bug Fixes
+
+* prevent the application from crashing ([2572829](git@github.com:iamsadi22/testing-tagging.git/commits2572829bd1995752085190f80be88ab5c0c90e0b))
+
 ### [1.1.1](git@github.com:iamsadi22/testing-tagging.git/compare/v1.1.0...v1.1.1) (2022-02-11)
 
 
